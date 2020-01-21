@@ -33,8 +33,8 @@ resultado comando  resultado comando  resultado comando
 resultado comando  resultado comando  resultado comando
 ```
 
-Tenemos un poco más de texto normal antes de otra línea de código más
-y el resultado de esta.
+Tenemos más de texto normal, un `comando` aquí y otro `àquí` para después tener
+un comando largo aquí.
 
 ```
 Comando largo aquí
