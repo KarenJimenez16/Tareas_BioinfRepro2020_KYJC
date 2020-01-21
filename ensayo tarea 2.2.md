@@ -70,4 +70,4 @@ bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
 
-Una última linea de texto normal, un *texto resaltado* [link aquí](https://www.google.com "Google's Homepage")
+Una última linea de texto normal, un **texto resaltado** [link aquí](https://www.google.com "Google's Homepage")
