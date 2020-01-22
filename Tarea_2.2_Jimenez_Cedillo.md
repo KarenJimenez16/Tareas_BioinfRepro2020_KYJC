@@ -62,7 +62,3 @@ The **process_radtags** program can be modified in several ways. If your data do
 
 There is additional information available in [**process_radtags** manual page](http://catchenlab.life.illinois.edu/stacks/comp/process_radtags.php).
 
-
-
-
-* [link aquí](https://www.google.com "Google's Homepage")
